@@ -1,3 +1,3 @@
 # my-test-repo
 
-push trigger
+pr
